@@ -8,6 +8,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infty-tokyo&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,9b252f,6e1a23,9b252f&hide_border=true)
 
-#### What is Infty??
-
-![Infty Flyer](https://infty-tokyo.github.io/flyer.jpg)
+<details>
+  <summary><b>What is Infty??</b></summary>
+  
+  ![Infty Flyer](https://infty-tokyo.github.io/flyer.jpg)
+</details>
